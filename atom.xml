@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/guoxueqiang/peacejoy.github.io</id>
+    <id>https://https://github.com/guoxueqiang/peacejoy.github.io.git</id>
     <title>Gridea</title>
-    <updated>2021-11-27T09:36:28.392Z</updated>
+    <updated>2021-11-27T09:42:53.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/guoxueqiang/peacejoy.github.io"/>
-    <link rel="self" href="https://github.com/guoxueqiang/peacejoy.github.io/atom.xml"/>
+    <link rel="alternate" href="https://https://github.com/guoxueqiang/peacejoy.github.io.git"/>
+    <link rel="self" href="https://https://github.com/guoxueqiang/peacejoy.github.io.git/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://github.com/guoxueqiang/peacejoy.github.io/images/avatar.png</logo>
-    <icon>https://github.com/guoxueqiang/peacejoy.github.io/favicon.ico</icon>
+    <logo>https://https://github.com/guoxueqiang/peacejoy.github.io.git/images/avatar.png</logo>
+    <icon>https://https://github.com/guoxueqiang/peacejoy.github.io.git/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/guoxueqiang/peacejoy.github.io/post/hello-gridea/</id>
-        <link href="https://github.com/guoxueqiang/peacejoy.github.io/post/hello-gridea/">
+        <id>https://https://github.com/guoxueqiang/peacejoy.github.io.git/post/hello-gridea/</id>
+        <link href="https://https://github.com/guoxueqiang/peacejoy.github.io.git/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
