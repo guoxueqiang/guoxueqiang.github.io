@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guoxueqiang.github.io</id>
     <title>peacejoy</title>
-    <updated>2021-11-28T07:48:22.372Z</updated>
+    <updated>2021-11-28T08:13:24.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guoxueqiang.github.io"/>
     <link rel="self" href="https://guoxueqiang.github.io/atom.xml"/>
@@ -16,7 +16,16 @@
         <link href="https://guoxueqiang.github.io/post/niu-bi/">
         </link>
         <updated>2021-11-27T11:43:46.000Z</updated>
-        <content type="html"><![CDATA[<p>111</p>
+        <summary type="html"><![CDATA[<h1 id="开始新的旅程">开始新的旅程</h1>
+<p>111</p>
+<!-- more -->🤡
+<figure data-type="image" tabindex="1"><img src="https://guoxueqiang.github.io/post-images/1638087147119.jpg" alt="" loading="lazy"></figure>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="开始新的旅程">开始新的旅程</h1>
+<p>111</p>
+<!-- more -->🤡
+<figure data-type="image" tabindex="1"><img src="https://guoxueqiang.github.io/post-images/1638087147119.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
