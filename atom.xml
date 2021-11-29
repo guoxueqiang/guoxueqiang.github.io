@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guoxueqiang.github.io</id>
     <title>peacejoy</title>
-    <updated>2021-11-28T13:49:50.442Z</updated>
+    <updated>2021-11-29T03:25:30.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guoxueqiang.github.io"/>
     <link rel="self" href="https://guoxueqiang.github.io/atom.xml"/>
@@ -16,10 +16,6 @@
         <link href="https://guoxueqiang.github.io/post/shen-du-xue-xi/">
         </link>
         <updated>2021-11-28T10:50:32.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="斯坦福cs231n深度视觉识别课程">斯坦福CS231n《深度视觉识别》课程:</h1>
-<iframe src="//player.bilibili.com/player.html?aid=13260183&bvid=BV1Dx411n7UE&cid=21741263&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-<h1 id="faster-rcnn理论">Faster RCNN理论</h1>
-<iframe src="//player.bilibili.com/player.html?aid=285520546&bvid=BV1af4y1m7iL&cid=186641324&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
@@ -27,10 +23,5 @@
         <link href="https://guoxueqiang.github.io/post/niu-bi/">
         </link>
         <updated>2021-11-27T11:43:46.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="开始新的旅程">开始新的旅程</h1>
-<p>111<br>
-🤡</p>
-<figure data-type="image" tabindex="1"><img src="https://guoxueqiang.github.io/post-images/1638087147119.jpg" alt="" loading="lazy"></figure>
-]]></content>
     </entry>
 </feed>
