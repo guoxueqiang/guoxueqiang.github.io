@@ -2,14 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guoxueqiang.github.io</id>
     <title>peacejoy</title>
-    <updated>2021-12-05T01:51:03.209Z</updated>
+    <updated>2022-02-21T09:08:42.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guoxueqiang.github.io"/>
     <link rel="self" href="https://guoxueqiang.github.io/atom.xml"/>
     <subtitle>好好学习，天天向上</subtitle>
     <logo>https://guoxueqiang.github.io/images/avatar.png</logo>
     <icon>https://guoxueqiang.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, peacejoy</rights>
+    <rights>All rights reserved 2022, peacejoy</rights>
+    <entry>
+        <title type="html"><![CDATA[今日小记2-21]]></title>
+        <id>https://guoxueqiang.github.io/post/jin-ri-xiao-ji-2-21/</id>
+        <link href="https://guoxueqiang.github.io/post/jin-ri-xiao-ji-2-21/">
+        </link>
+        <updated>2022-02-21T09:06:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>凡人修仙传</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>凡人修仙传</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科研使人快乐]]></title>
         <id>https://guoxueqiang.github.io/post/ke-yan-shi-ren-kuai-le/</id>
